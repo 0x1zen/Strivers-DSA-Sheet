@@ -8,7 +8,6 @@ using namespace std;
 class stImpl{
     int st[10];
     int top;
-
     public:
     stImpl(){
         top=-1;
